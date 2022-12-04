@@ -1,0 +1,10 @@
+.common__section {
+  background: linear-gradient(#212245, #212245),
+    url("../assets/images/product_04.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding: 80px 0px;
+}
+
+
